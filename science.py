@@ -77,3 +77,4 @@ for result in results[1:]:
         print("->" + DB[result], end="")
     except:
         pass
+input()
